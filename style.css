@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+}
+h1 {
+  font-weight: 900;
+}
+h2 {
+  background-color: bisque;
+}
+p {
+  background-color: blueviolet;
+  color: coral;
+  font-weight: 500;
+}
+img {
+  border-radius: 15px;
+}
